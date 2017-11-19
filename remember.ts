@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function newSpell() {
+function remember() {
     const here = magik.hic();
 	magik.memento.setItem(here);
 }
